@@ -8,6 +8,7 @@ Suite Teardown                  End suite
 Create Account Growmore
     [Tags]                      Account                     New Account
     Appstate                    Home
+    #I have made this change in CRT
     LaunchApp                   Sales
     ClickText                   Accounts
     ClickText                   New
